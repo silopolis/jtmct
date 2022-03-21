@@ -1,0 +1,18 @@
+[submodule "7i80"]
+	path = 7i80
+	url = https://github.com/jethornton/7i80
+[submodule "7i92"]
+	path = 7i92
+	url = https://github.com/jethornton/7i92
+[submodule "7i97"]
+	path = 7i97
+	url = https://github.com/jethornton/7i97
+[submodule "7i96"]
+	path = 7i96
+	url = https://github.com/jethornton/7i96
+[submodule "7i76e"]
+	path = 7i76e
+	url = https://github.com/jethornton/7i76e
+[submodule "7i95"]
+	path = 7i95
+	url = https://github.com/jethornton/7i95
